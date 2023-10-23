@@ -1,3 +1,5 @@
+#ANTI KICK SCRIPT BY GIO
+
 import pyautogui as pg
 import time as t
 
