@@ -11,5 +11,5 @@ while(True):
         t.sleep(0.5)
         pg.keyUp('w')
         pg.keyDown('s')
-        t.sleep(0,5)
+        t.sleep(0.5)
         pg.keyUp('s')
