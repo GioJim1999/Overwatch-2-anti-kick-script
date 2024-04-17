@@ -1,5 +1,6 @@
-#ANTI KICK SCRIPT BY GIO
-
+#anti kick script run it alt tab to game you have 3 seconds
+#let it run if you want it to stop free your mouse and move to the top left of the screen
+#By: Gio
 import pyautogui as pg
 import time as t
 
